@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193301353242",
+    "project_id": "crms-546fb",
+    "storage_bucket": "crms-546fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193301353242:android:b814297b40892ee938d2a3",
+        "android_client_info": {
+          "package_name": "com.example.crms2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMM9hHklSKI5X09aCRWeitQsf-bMzNjq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
