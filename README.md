@@ -86,7 +86,7 @@ bash
 Copy
 Edit
 # Clone the project
-git clone https://github.com/your-username/crime-report-system.git
+git clone https://github.com/Pritam81/crime-report-system.git
 cd crime-report-system
 
 # Install dependencies (for Flutter)
@@ -94,22 +94,12 @@ flutter pub get
 
 # Run the app
 flutter run
-🖼 Screenshots (Optional)
-Add screenshots of:
-
-Complaint Form
-
-Admin Panel
-
-Officer Dashboard
-
-Status Tracker Page
 
 🤝 Contribution & Feedback
 If you'd like to suggest improvements, report a bug, or contribute, feel free to open an issue or a pull request. Feedback is highly appreciated!
 
 📧 Contact
 Developer: Pritam Kumar
-Email: your-email@example.com
+Email: pritamjunior26gmail.com
 Project: Crime Report Management System
 Organization: Visito Ventures Pvt. Ltd. / Academic Submission
